@@ -25,3 +25,5 @@ I'm an aspiring software developer interested in building web applications, back
 
 - Facebook: https://www.facebook.com/6aboy
 - Email: quinolgabriel@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,django,laravel,php,vue)](https://skillicons.dev)
