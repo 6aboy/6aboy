@@ -21,13 +21,7 @@ I'm an aspiring software developer interested in building web applications, back
 - **Fund Tracker** – A financial tracking application with expense monitoring and data visualization.
 - **Tourism Management System** – A web-based tourism management application.
 
-### 📚 Currently Learning
-
-- React.js
-- AI Automation
-- Modern Frontend Development
-
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- Facebook: https://www.facebook.com/6aboy
 - Email: quinolgabriel@gmail.com
