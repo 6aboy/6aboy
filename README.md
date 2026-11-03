@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gabriel Nicholas Quinol 👋
 
-<!--
-**6aboy/6aboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer | BS Information Technology Student
 
-Here are some ideas to get you started:
+I'm an aspiring software developer interested in building web applications, backend systems, and data-driven solutions that help businesses improve their processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages:** PHP, Python, JavaScript, HTML, CSS
+- **Backend:** Django, Laravel
+- **Frontend:** Bootstrap, React
+- **Databases:** MySQL, PostgreSQL
+- **Data Analytics:** Pandas, Plotly, Bokeh, Chart.js
+- **Machine Learning:** Scikit-learn, ARIMA
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- **HENALYTICS** – Poultry production, inventory, sales management, and predictive analytics.
+- **Inventory and Sales Management System** – PHP and MySQL-based inventory and sales management application.
+- **Fund Tracker** – A financial tracking application with expense monitoring and data visualization.
+- **Tourism Management System** – A web-based tourism management application.
+
+### 📚 Currently Learning
+
+- React.js
+- AI Automation
+- Modern Frontend Development
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: quinolgabriel@gmail.com
