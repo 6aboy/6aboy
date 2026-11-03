@@ -21,7 +21,7 @@ I'm an aspiring software developer studying at Central Luzon State University, i
 - **Machine Learning:** Scikit-learn, ARIMA
 - **Tools:** Git, GitHub, VSCode, Claude, Codex
   
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,laravel,php,vue,mysql,sqlite,nodejs,vscode,git,github,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,laravel,php,vue,mysql,nodejs,vscode,git,github)](https://skillicons.dev)
 
 ### Connect With Me
 
