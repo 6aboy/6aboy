@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer | BS Information Technology Student
 
-I'm an aspiring software developer interested in building web applications, backend systems, and data-driven solutions that help businesses improve their processes.
+I'm an aspiring software developer studying at Central Luzon State University, interested in building web applications, backend systems, and data-driven solutions. I aim to develop intuitive and efficient software that streamlines business processes, simplifies daily operations, and helps organizations improve productivity through technology.
 
 ### Technical Skills
 
