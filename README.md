@@ -6,7 +6,7 @@ I'm an aspiring software developer studying at Central Luzon State University, i
 
 ### Featured Projects
 
-- **HENALYTICS** – A machine learning-powered web application that integrates poultry production, inventory, and sales management with ARIMA-based time-series forecasting. Uses historical and continuously updated operational data to analyze trends and predict future egg production and sales performance, supporting data-driven planning and decision-making.
+- **HENALYTICS** – A machine learning-powered web application for CLSU Poultry Module 1 that integrates poultry production, inventory, and sales management with ARIMA-based time-series forecasting. Uses historical and continuously updated operational data to analyze trends and predict future egg production and sales performance, supporting data-driven planning and decision-making.
 - **Inventory and Sales Management System** – Inventory and sales management web application for small to medium enterprise that tracks stocks and sales.
 - **Fund Tracker** – A financial tracking application with expense monitoring and data visualization.
 - **Student Management System** – Academic portal for students and teachers that manages subjects, grades, classes.
