@@ -6,13 +6,13 @@ I'm an aspiring software developer interested in building web applications, back
 
 ### Technical Skills
 
-- **Languages:** PHP, Python, JavaScript
+- **Languages:** PHP, Python, JavaScript, Java, C++
 - **Backend:** Django, Laravel
 - **Frontend:** Bootstrap, React, Vue, HTML, CSS, Tailwind
 - **Databases:** MySQL, sqlite
 - **Data Analytics:** Pandas, Plotly, Bokeh, Chart.js
 - **Machine Learning:** Scikit-learn, ARIMA
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VSCode
 
 ### Featured Projects
 
