@@ -17,7 +17,7 @@ I'm an aspiring software developer interested in building web applications, back
 ### Featured Projects
 
 - **HENALYTICS** – Machine Learning Poultry production, inventory, sales management, and predictive analytics.
-- **Inventory and Sales Management System** – PHP and MySQL-based inventory and sales management application.
+- **Inventory and Sales Management System** – Inventory and sales management web application for small to medium enterprise that tracks stocks and sales.
 - **Fund Tracker** – A financial tracking application with expense monitoring and data visualization.
 - **Student Management System** – Academic portal for students and teachers that manages subjects, grades, classes.
 
