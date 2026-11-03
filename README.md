@@ -12,7 +12,7 @@ I'm an aspiring software developer studying at Central Luzon State University, i
 - **Databases:** MySQL, sqlite
 - **Data Analytics:** Pandas, Plotly, Bokeh, Chart.js
 - **Machine Learning:** Scikit-learn, ARIMA
-- **Tools:** Git, GitHub, VSCode
+- **Tools:** Git, GitHub, VSCode, Claude, Codex
 
 ### Featured Projects
 
